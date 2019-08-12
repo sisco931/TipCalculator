@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="amounts_will_be_displayed_here">Amounts WIll Be Displayed Here</string>
+    <string name="calculate">Calculate</string>
+    <string name="_10">10%</string>
+    <string name="tip_percent">Tip Percent</string>
+    <string name="number_of_people">Number of People</string>
+    <string name="_1">1</string>
+</resources>
